@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="5.2.0" apprev="15969" id="node1" hideabout="1">
+  <input height="1606" levelbiashidpi="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1606" levelingroll="0" levelingpitch="0" levelbias="0.400" overlap="1" leveltilesize="2500">
+    <level height="1606" preload="1" width="1606" predecode="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start projection="4" tilt="-3.13" fov="70" pan="13.82"/>
+    <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+    <min tilt="-61.7" fov="5" pan="0"/>
+    <max tilt="67.9" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120" pan="360"/>
+  </view>
+  <userdata datetime="11/12/2011 1:06 PM" copyright="" title="Stitched Panorama" description="" latitude="" comment="" customnodeid="" author="IVAN CHAN PHOTOGRAPHY" longitude="" info="" tags="A101" source=""/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label height="20" backgroundalpha="1" borderalpha="1" background="1" width="180" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" enabled="1" wordwrap="1" border="1" textcolor="0x000000"/>
+    <polystyle mode="0" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition blendcolor="0x000000" zoomfov="20" type="crossdissolve" zoomspeed="2" blendtime="1" softedge="0" zoomout="0" zoomin="0" enabled="0" zoomoutpause="1"/>
+  <control speedwheel="1" lockedwheel="0" invertcontrol="1" contextprojections="0" sensitivity="8" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="1"/>
+</panorama>
