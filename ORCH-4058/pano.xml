@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="15969" appversion="5.2.0" hideabout="1" id="node1">
+  <input width="1344" levelbias="0.400" leveltilesize="2500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="-0.7" levelingroll="1.3" height="1344" levelbiashidpi="0.400" overlap="1">
+    <level width="1344" preload="1" predecode="1" height="1344"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="22.5" fovmode="0">
+    <start pan="0.49" fov="70" tilt="0.83" projection="4"/>
+    <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+    <min pan="0" fov="5" tilt="-90"/>
+    <max pan="360" fov="120" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+  </view>
+  <userdata longitude="" description="" latitude="" datetime="8/20/2017 11:22 AM" info="" author="" tags="Orchard Commons" title="" copyright="" source="" comment="" customnodeid=""/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label width="180" bordercolor="0x000000" backgroundcolor="0xffffff" textcolor="0x000000" borderalpha="1" borderradius="1" background="1" enabled="1" height="20" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+    <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627"/>
+  </hotspots>
+  <media/>
+  <transition zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomfov="20" zoomspeed="2" blendtime="1" enabled="0" zoomin="0" zoomout="0"/>
+  <control invertcontrol="1" rubberband="0" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="1" lockedmouse="0" speedwheel="1" contextprojections="0" sensitivity="8" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0"/>
+</panorama>
